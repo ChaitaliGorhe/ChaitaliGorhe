@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![HitCount](http://hits.dwyl.com/ChaitaliGorhe/ChaitaliGorhe.svg)](http://hits.dwyl.com/ChaitaliGorhe/ChaitaliGorhe)
 <!--
 **ChaitaliGorhe/ChaitaliGorhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
